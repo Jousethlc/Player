@@ -1,3 +1,4 @@
+<script>//<![CDATA[
 var player = videojs('videoPlayer',{
 	controls: true,
 	loop: true,
@@ -11,3 +12,4 @@ var player = videojs('videoPlayer',{
 	}
 
 });
+//]]></script>
